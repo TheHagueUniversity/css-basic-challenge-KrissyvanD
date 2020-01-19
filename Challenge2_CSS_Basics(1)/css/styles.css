@@ -31,7 +31,7 @@ img {
   width: 300px;
 }
 a {
-  color: #FFE66D;
+  color: #FF9B42;
 }
 a:hover {
   text-decoration: none;
@@ -110,9 +110,16 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #FF9B42;
+  background: #D9E5D6;
 }
-
+.work-experience .btn {
+  color: #F7FFF7;
+  background: #F7A072;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 4px;
+  display: inline-block;
+}
 
 
 /* Education
@@ -142,3 +149,17 @@ footer {
   padding: 15px;
   display: inline-block;
 }
+
+/* index
+------------------------------------*/
+.index {
+  background: #D9E5D6;
+}
+
+.index .btn {
+  color: #F7FFF7;
+  background: #F7A072;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 4px;
+  display: inline-block;}
